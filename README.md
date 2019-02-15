@@ -6,12 +6,12 @@ Takes a blob and puts a link on the page so that the user can download the conte
 Installation
 ------------
 
-    npm install render-download-link
+    npm install render-dl-link
 
 Usage
 -----
 
-    var renderDownloadLink = require('render-download-link');
+    var renderDownloadLink = require('render-dl-link');
 
     renderDownloadLink({
       blob: createEncodedBlob(audioBuffer),

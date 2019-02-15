@@ -1,5 +1,5 @@
 {
-  "name": "render-download-link",
+  "name": "render-dl-link",
   "version": "1.0.0",
   "description": "Takes a blob and puts a link on the page so that the user can download the contents of that blob.",
   "main": "index.js",
